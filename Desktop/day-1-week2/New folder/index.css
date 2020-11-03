@@ -131,6 +131,9 @@ q:after {
     content: none;
 }
 
+
+/* end of CSS RESET */
+
 table {
     border-collapse: collapse;
     border-spacing: 0;
@@ -498,3 +501,6 @@ p {
 .footerdiv .paragraph {
     padding-top: 3%;
 }
+
+
+/* Changes made for 500px */
